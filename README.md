@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="https://i.ibb.co.com/NVqNbN5/kaito-kuroba-magic-kaito-kait-logo-conan-edogawa-ddb4c17b9cc9ffda569abe3a8af2dafc.png" width="80%" alt="API Giphy logo"/>
+<img src="https://i.ibb.co.com/NVqNbN5/kaito-kuroba-magic-kaito-kait-logo-conan-edogawa-ddb4c17b9cc9ffda569abe3a8af2dafc.png" width="60%" alt="API Giphy logo"/>
 
 </p>
 
