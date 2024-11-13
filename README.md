@@ -19,8 +19,6 @@
 
 - 🤓 I'm a copy paste master.
 
-- 🔭 I'm trying to set a record, watching anime 1 season in a day.
-
 - 📝 Thanks To [`My Self`](https://github.com/sbdisd).
 
 - 🎩 Thanks To All Mastah.
