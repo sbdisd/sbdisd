@@ -43,7 +43,7 @@
 ### Youtube Playlist Playing 🎧
 
 <p align="center">
-  <a href="https://www.youtube.com/embed/videoseries?si=H-t5uNnp7cYrJDjD&amp;list=PLfHUctPViabwc6uKCLDZP5t261o6pYM0m" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://www.youtube.com/embed/videoseries?si=H-t5uNnp7cYrJDjD&amp;list=PLfHUctPViabwc6uKCLDZP5t261o6pYM0m" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="450"/></a>
 </p>
 
 ------
