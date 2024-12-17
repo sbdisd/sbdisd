@@ -5,13 +5,13 @@
 <p align="center">
 
 <img src="https://i.ibb.co.com/NVqNbN5/kaito-kuroba-magic-kaito-kait-logo-conan-edogawa-ddb4c17b9cc9ffda569abe3a8af2dafc.png" width="50%" alt="API Giphy logo"/>
-<video src="https://github.com/user-attachments/assets/d3ec3118-f6d5-40e3-a96b-c7c19b53a568" 
-       autoplay 
-       loop 
-       controls 
-       muted="false" 
-       style="max-width: 100%; height: auto;">
+
 </p>
+
+<video src="https://github.com/user-attachments/assets/d3ec3118-f6d5-40e3-a96b-c7c19b53a568" autoplay loop controls muted="false" style="max-width: 100%; height: auto;">
+ Gagal Savage
+</video>
+
 
 [<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/+)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/sbdisd)
