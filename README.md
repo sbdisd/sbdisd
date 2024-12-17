@@ -12,6 +12,8 @@
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/sbdisd)
 [<img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://m.youtube.com/channel/sbdisd)
 [<img src="https://img.shields.io/badge/github-%23E4405F.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/sbdisd)
+<br>
+[![](https://visitcount.itsvg.in/api?id=sbdisd&icon=0&color=5)](https://visitcount.itsvg.in)
 
 ### I &nbsp;Personal Stuffs
 
@@ -53,7 +55,7 @@
 
 <p align="center">
 
-  <a href="https://github.com/sbdisd"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sbdisd&theme=tokyonight&layout=compact" /></a>
+  <a href="https://github.com/sbdisd"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sbdisd&theme=tokyonight&layout=donut" /></a>
 
 </p>
 
